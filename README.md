@@ -1,1 +1,4 @@
 # 2DSideScrollerGameAssignment13
+To Make Movement Feel Good What Did I Tune?
+I tuned the jump especially, I followed a tutorial from a great coding channel called Game Code Library. She has a really easy and beginner-friendly method of coding a jump that checks if the player is grounded to avoid a 'flappy-bird' style of jumping where you can jump into infinity. For movement I used her tutorial as well to make use of the new Unity input system, to make the movement more natural and easier to implement. I went with the arrow keys for left and right and the spacebar for jumping as that felt the most easiest for a keyboard layout.
+With the jumping bug and the platforms, I fine-tuned their positioning and in the case of the bug, its jump and speed to make sure the player has a good challenge but the level isn't impossible. It is hard though LOL!!
